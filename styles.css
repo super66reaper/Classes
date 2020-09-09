@@ -1,0 +1,13 @@
+body{
+    background-image: radial-gradient(white, black)
+}
+
+h1{
+    width: 100px;
+    color:white;
+    box-shadow: black 2px 2px 2px 2px;
+}
+
+img{
+    box-shadow: black 5px 5px 5px 5px;
+}
